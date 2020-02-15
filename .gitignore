@@ -1,0 +1,10 @@
+no-redux/mobile/__tests__
+no-redux/mobile/android
+no-redux/mobile/gen
+no-redux/mobile/ios
+no-redux/mobile/node_modules
+
+redux/mobile/__tests__
+redux/mobile/android
+redux/mobile/ios
+redux/mobile/node_modules
