@@ -1,6 +1,6 @@
 # Projeto
 
-Criação de uma aplicação mobile que consome a API: https://my-json-server.typicode.com/eduardobvale/demo/rentals 
+Criação de uma aplicação mobile que consome a seguinte API: https://my-json-server.typicode.com/eduardobvale/demo/rentals </br>
 Esta API possui anúncios de imóveis para aluguel, com foto e algumas informações.
 
 ## Tecnologias
