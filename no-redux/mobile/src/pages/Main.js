@@ -17,10 +17,6 @@ function Main({ navigation }) {
     setAnuncios(response.data);
   }
 
-  if (anuncios.length === 0) {
-    return null
-  }
-
   function headerMain() {
     return(
       <View>
