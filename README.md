@@ -7,7 +7,7 @@ Esta API possui anúncios de imóveis para aluguel, com foto e algumas informaç
 
 - React Native
   * Versões com e sem Redux nas pastas específicas
-  * Consumo da API feito pelo "axios"
+  * Consumo da API feito pelo `axios`
 
 ## Funcionamento
 
